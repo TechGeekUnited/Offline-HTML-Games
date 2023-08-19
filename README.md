@@ -8,7 +8,7 @@ Projects used
 
 [oldj/html5 tower defense](https://github.com/oldj/html5-tower-defense)
 
-[Dystopia user181/connect pipes polygonal](https://github.com/Dystopia-user181/connect-pipes-polygonale)
+[Dystopia user181/connect pipes polygonal](https://github.com/Dystopia-user181/connect-pipes-polygonal)
 
 [Metroxe/one html page challenge](https://github.com/Metroxe/one-html-page-challenge)
 
