@@ -11,3 +11,5 @@ Projects used
 [Dystopia user181/connect pipes polygonal](https://github.com/Dystopia-user181/connect-pipes-polygonale)
 
 [Metroxe/one html page challenge](https://github.com/Metroxe/one-html-page-challenge)
+
+[orteil/musicgen](https://orteil.dashnet.org/musicgen)
